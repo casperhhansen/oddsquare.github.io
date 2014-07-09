@@ -1,4 +1,0 @@
-oddsquare.github.io
-===================
-
-web
